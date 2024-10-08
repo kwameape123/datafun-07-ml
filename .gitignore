@@ -1,0 +1,4 @@
+# Exclude files below from source control
+.vscode/
+.venv/
+.ipynb_checkpoints/
