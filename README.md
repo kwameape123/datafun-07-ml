@@ -1,4 +1,6 @@
 # datafun-07-ml
+## Author: Arnold Atchoe
+## Date: 10/07/2024
 
 For this project, simple linear regression, a supervised learning method is used to build a model that can predict a dependent variable or feature using one independent variable.
 
