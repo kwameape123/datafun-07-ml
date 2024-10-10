@@ -19,3 +19,8 @@ For this project, simple linear regression, a supervised learning method is used
     ```ni requirements.txt```
 7. Install project dependencies.
     ```py -m pip install -r requirements.txt```
+8. Create jupyter notebook and begin project. Refer to "arnoldatchoe_ml.ipynb" for project details.
+
+## Notes
+1. Make sure virtual environment is activate whenever project is being worked on local machine.
+2. ```git add .```,```git commit -m "message"``` and ```git push origin main``` whenever necessary.
